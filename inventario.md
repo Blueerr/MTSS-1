@@ -7,6 +7,6 @@ asus g650x
   
 ## Periferiche  
 logitech POP Keys  
-   
+logitech pro x superlight 2    
    
 # Elettronica Padovana
