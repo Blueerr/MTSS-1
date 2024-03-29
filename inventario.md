@@ -6,6 +6,7 @@ AMD Ryzen 5 5600X
 asus g650x  
   
 ## Periferiche  
+logitech POP Keys  
    
    
 # Elettronica Padovana
