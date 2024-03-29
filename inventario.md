@@ -3,6 +3,9 @@
 
 ## Componenti  
 AMD Ryzen 5 5600X  
-asus g650x   
+asus g650x  
+  
+## Periferiche  
+   
    
 # Elettronica Padovana
